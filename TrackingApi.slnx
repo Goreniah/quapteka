@@ -1,0 +1,4 @@
+<Solution>
+	<Project Path="TrackingApi.csproj" />
+	<Project Path="RealtimeConsumer\RealtimeConsumer.csproj" />
+</Solution>

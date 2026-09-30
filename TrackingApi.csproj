@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+		<Nullable>disable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Azure.Messaging.EventHubs" Version="5.12.2" />
+		<PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.5" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Remove="RealtimeConsumer\**\*.cs" />
+		<Compile Remove="RealtimeConsumer.Tests\**\*.cs" />
+		<Content Remove="RealtimeConsumer\**\*" />
+		<Content Remove="RealtimeConsumer.Tests\**\*" />
+		<None Remove="RealtimeConsumer\**\*" />
+		<None Remove="RealtimeConsumer.Tests\**\*" />
+		<EmbeddedResource Remove="RealtimeConsumer\**\*" />
+		<EmbeddedResource Remove="RealtimeConsumer.Tests\**\*" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\Quapteka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8BA616-D6D4-56F7-3E86-C9F19217B932}|RealtimeConsumer\\RealtimeConsumer.csproj|c:\\source\\quapteka\\realtimeconsumer\\trackingeventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8BA616-D6D4-56F7-3E86-C9F19217B932}|RealtimeConsumer\\RealtimeConsumer.csproj|solutionrelative:realtimeconsumer\\trackingeventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBE1DA3-BD0F-DA82-252F-A2573B7FDCCF}|TrackingApi.csproj|c:\\source\\quapteka\\tracking\\eventhubtrackingeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBE1DA3-BD0F-DA82-252F-A2573B7FDCCF}|TrackingApi.csproj|solutionrelative:tracking\\eventhubtrackingeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBE1DA3-BD0F-DA82-252F-A2573B7FDCCF}|TrackingApi.csproj|c:\\source\\quapteka\\controllers\\trackingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBE1DA3-BD0F-DA82-252F-A2573B7FDCCF}|TrackingApi.csproj|solutionrelative:controllers\\trackingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8BA616-D6D4-56F7-3E86-C9F19217B932}|RealtimeConsumer\\RealtimeConsumer.csproj|c:\\source\\quapteka\\realtimeconsumer\\signalrpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8BA616-D6D4-56F7-3E86-C9F19217B932}|RealtimeConsumer\\RealtimeConsumer.csproj|solutionrelative:realtimeconsumer\\signalrpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8BA616-D6D4-56F7-3E86-C9F19217B932}|RealtimeConsumer\\RealtimeConsumer.csproj|c:\\source\\quapteka\\realtimeconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8BA616-D6D4-56F7-3E86-C9F19217B932}|RealtimeConsumer\\RealtimeConsumer.csproj|solutionrelative:realtimeconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrackingController.cs",
+              "DocumentMoniker": "C:\\Source\\Quapteka\\Controllers\\TrackingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrackingController.cs",
+              "ToolTip": "C:\\Source\\Quapteka\\Controllers\\TrackingController.cs",
+              "RelativeToolTip": "Controllers\\TrackingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T09:19:01.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventHubTrackingEventPublisher.cs",
+              "DocumentMoniker": "C:\\Source\\Quapteka\\Tracking\\EventHubTrackingEventPublisher.cs",
+              "RelativeDocumentMoniker": "Tracking\\EventHubTrackingEventPublisher.cs",
+              "ToolTip": "C:\\Source\\Quapteka\\Tracking\\EventHubTrackingEventPublisher.cs",
+              "RelativeToolTip": "Tracking\\EventHubTrackingEventPublisher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T08:21:44.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrackingEventProcessor.cs",
+              "DocumentMoniker": "C:\\Source\\Quapteka\\RealtimeConsumer\\TrackingEventProcessor.cs",
+              "RelativeDocumentMoniker": "RealtimeConsumer\\TrackingEventProcessor.cs",
+              "ToolTip": "C:\\Source\\Quapteka\\RealtimeConsumer\\TrackingEventProcessor.cs",
+              "RelativeToolTip": "RealtimeConsumer\\TrackingEventProcessor.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T08:15:38.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignalRPublisher.cs",
+              "DocumentMoniker": "C:\\Source\\Quapteka\\RealtimeConsumer\\SignalRPublisher.cs",
+              "RelativeDocumentMoniker": "RealtimeConsumer\\SignalRPublisher.cs",
+              "ToolTip": "C:\\Source\\Quapteka\\RealtimeConsumer\\SignalRPublisher.cs",
+              "RelativeToolTip": "RealtimeConsumer\\SignalRPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T08:14:14.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Source\\Quapteka\\RealtimeConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "RealtimeConsumer\\Program.cs",
+              "ToolTip": "C:\\Source\\Quapteka\\RealtimeConsumer\\Program.cs",
+              "RelativeToolTip": "RealtimeConsumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T09:04:40.13Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1436,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
